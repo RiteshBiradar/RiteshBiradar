@@ -1,11 +1,4 @@
 
-<div align="center">
-
-<img height="150" src="https://drive.google.com/uc?id=1pLb5ymdGbYpvW2yjIpmrr8MqlxYTD6WM" />
-
-
-</div>
-
 
 
 <h1 align="center">Hey there 👋, I'm Ritesh Biradar</h1>
