@@ -85,8 +85,6 @@ I have worked with [Light Heads](https://github.com/Light-Heads), where I contri
 
   <img src="https://github-readme-stats.vercel.app/api?username=riteshbiradar&show_icons=true&locale=en" alt="riteshbiradar" />
 
-  <img src="https://streak-stats.demolab.com?user=riteshbiradar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-
 </div>
 
 
