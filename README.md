@@ -15,21 +15,12 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 
-
-- 🔭 I’m currently working on [Companion](https://github.com/Light-Heads/companion-service)  
-
-- 👯 I’m looking to collaborate on **Web Development**  
-
 - 📫 How to reach me: **biradarritesh6@gmail.com**  
 
 - ⚡ Fun fact: **I'm a video editor with a creative edge, always ready to bring stories to life through visuals!**
 
 - 🏢 Professional Contributions:
 I have worked with [Light Heads](https://github.com/Light-Heads), where I contributed to several impactful projects.
-        Feel free to explore my works in their GitHub repository:
-  - [Companion](https://github.com/Light-Heads/companion-service/tree/dmlCommands)
-  - [Foto Fusion](https://github.com/Light-Heads/ritesh-learning/tree/wip/completecode)
-
 ---
 
 
