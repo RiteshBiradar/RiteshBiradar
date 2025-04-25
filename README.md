@@ -21,6 +21,7 @@
 
 - 🏢 Professional Contributions:
 I have worked with [Light Heads](https://github.com/Light-Heads), where I contributed to several impactful projects.
+I have worked with [ChaiUI]([(https://github.com/satyarth8/Chai-UI)]), where I contributed to build custom reusable react components 
 ---
 
 
