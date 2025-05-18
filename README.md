@@ -19,10 +19,10 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-- ⚡ Fun fact:**I'm also a video editor with a creative edge, always ready to bring stories to life through visuals!**
-
-- 🏢 Contributions:
+- Contributions:
   - I have worked with [ChaiUI](https://github.com/satyarth8/Chai-UI), where I contributed to build custom reusable react components 
+
+- Fun fact: **I'm also a video editor with a creative edge, always ready to bring stories to life through visuals!**
 ---
 
 
