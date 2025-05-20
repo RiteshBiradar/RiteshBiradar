@@ -6,7 +6,7 @@
 <h3 align="center">I became more passionate about coding when I saw how my projects made an impact in the real world.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riteshbiradar&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=RiteshBiradar&label=Profile%20views&color=0e75b6&style=flat" />
 <a href="https://wakatime.com/@bc4c6659-eff5-48fb-baff-e2fae97da873"><img src="https://wakatime.com/badge/user/bc4c6659-eff5-48fb-baff-e2fae97da873.svg" alt="Total time coded since May 18 2025" /></a>
 </p>
 
