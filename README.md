@@ -5,8 +5,15 @@
   <a href="https://wakatime.com/@bc4c6659-eff5-48fb-baff-e2fae97da873"><img src="https://wakatime.com/badge/user/bc4c6659-eff5-48fb-baff-e2fae97da873.svg" alt="Total time coded since May 18 2025" /></a>
 </p>
 
-<p align="center">
-  Building Applications | Contributor @ChaiUI | Passionate about Clean UI & Developer Tools
+<p align="center"> 
+
+🚀 Things I’ve built:  
+- **ChaiUI** – A modern, clean UI component library.  
+- **LeetCode-like Platform** – Tracks user progress & submissions with a more insightful approach.  
+- **Mini Express.js Clone** – Recreated core functionality to understand how Express is just a wrapper around Node.js `https` module.  
+- **Lead** – A notes-sharing platform with **1200+ downloads** and **500–800 active users**.  
+
+💡 Passionate about building projects that make an impact in the real world.  
 </p>
 
 ---
